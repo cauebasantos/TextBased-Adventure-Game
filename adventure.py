@@ -11,12 +11,12 @@ rooms = {
         'a': 'critical_room'
     },
     'left_room': {
-        'description': 'You entered the LEFT ROOM and see 2 door, one leads to the [b]back to the initial room and the other one leads to the [a]ahead room. What do you do?',
+        'description': 'You entered the LEFT ROOM and see 2 door, one leads [b]back to the initial room and the other one goes [a]ahead to the next room. What do you do?',
         'b': 'initial_room',
         'a': 'middle_room'
     },
     'right_room': {
-        'description': 'You entered the RIGHT ROOM and see 1 door, it leads to the [b]back to the initial room. What do you do?',
+        'description': 'You entered the RIGHT ROOM and see 1 door, it leads [b]back to the initial room. What do you do?',
         'b': 'initial_room'
     },
     'critical_room': {
